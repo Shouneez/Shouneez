@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Shouneez 👋
 
-<!--
-**Shouneez/Shouneez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst with hands-on experience in Python, SQL, Excel, and Power BI. Skilled in data cleaning, exploratory data analysis, and dashboard development, with a passion for transforming raw data into actionable business insights.
 
-Here are some ideas to get you started:
+# Technical Skills
+- Python (Pandas, Matplotlib)
+- SQL
+- Power BI
+- Excel
+- Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Featured Projects
+
+# HR Analytics Dashboard
+Interactive Power BI dashboard analyzing employee demographics, attrition trends, and workforce performance.
+
+# Amazon Sales Performance Dashboard
+Sales analytics dashboard focused on revenue trends, customer behavior, and regional sales insights.
+
+# Agriculture Trade Analysis (India vs Turkey)
+Data analysis project exploring agricultural trade trends, pricing patterns, and export insights using Python and Power BI.
+
+# Coffee Quality Analysis
+Exploratory data analysis project identifying factors influencing coffee quality ratings.
+
+# Connect With Me
+- LinkedIn: linkedin.com/in/shouneez-elsayed
+- GitHub: github.com/Shouneez
+
